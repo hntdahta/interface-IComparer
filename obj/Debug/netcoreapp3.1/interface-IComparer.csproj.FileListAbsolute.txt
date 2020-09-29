@@ -1,0 +1,13 @@
+C:\Users\hntdahta\source\repos\interface-IComparer\bin\Debug\netcoreapp3.1\interface-IComparer.exe
+C:\Users\hntdahta\source\repos\interface-IComparer\bin\Debug\netcoreapp3.1\interface-IComparer.deps.json
+C:\Users\hntdahta\source\repos\interface-IComparer\bin\Debug\netcoreapp3.1\interface-IComparer.runtimeconfig.json
+C:\Users\hntdahta\source\repos\interface-IComparer\bin\Debug\netcoreapp3.1\interface-IComparer.runtimeconfig.dev.json
+C:\Users\hntdahta\source\repos\interface-IComparer\bin\Debug\netcoreapp3.1\interface-IComparer.dll
+C:\Users\hntdahta\source\repos\interface-IComparer\bin\Debug\netcoreapp3.1\interface-IComparer.pdb
+C:\Users\hntdahta\source\repos\interface-IComparer\obj\Debug\netcoreapp3.1\interface-IComparer.csprojAssemblyReference.cache
+C:\Users\hntdahta\source\repos\interface-IComparer\obj\Debug\netcoreapp3.1\interface-IComparer.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\interface-IComparer\obj\Debug\netcoreapp3.1\interface-IComparer.AssemblyInfo.cs
+C:\Users\hntdahta\source\repos\interface-IComparer\obj\Debug\netcoreapp3.1\interface-IComparer.csproj.CoreCompileInputs.cache
+C:\Users\hntdahta\source\repos\interface-IComparer\obj\Debug\netcoreapp3.1\interface-IComparer.dll
+C:\Users\hntdahta\source\repos\interface-IComparer\obj\Debug\netcoreapp3.1\interface-IComparer.pdb
+C:\Users\hntdahta\source\repos\interface-IComparer\obj\Debug\netcoreapp3.1\interface-IComparer.genruntimeconfig.cache
